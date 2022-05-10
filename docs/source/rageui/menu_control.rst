@@ -7,5 +7,6 @@ Testing
 -------
 
 .. toctree::
-    :caption: Controlleur des menus
+   :caption: Sommaire
+   :titlesonly:
    :glob:

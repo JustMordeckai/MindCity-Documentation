@@ -4,7 +4,8 @@ RageUI
 Hello
 
 .. toctree::
-   :caption: RageUI
+   :caption: Sommaire
+   :titlesonly:
    :glob:
 
    rageui/menu_control
