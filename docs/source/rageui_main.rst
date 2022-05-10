@@ -1,9 +1,7 @@
 RageUI
 ======
-Hello
 
-Testing
--------
+Hello
 
 .. toctree::
    :caption: RageUI
