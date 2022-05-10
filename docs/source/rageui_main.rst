@@ -6,6 +6,7 @@ Testing
 -------
 
 .. toctree::
+   :caption: RageUI
    :glob:
 
-   rageui/*
+   rageui/menu_control

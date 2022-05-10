@@ -6,4 +6,5 @@ Testing
 -------
 
 .. toctree::
+    :caption: Controlleur des menus
    :glob:
