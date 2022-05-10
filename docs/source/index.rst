@@ -7,5 +7,6 @@ Contents
 --------
 
 .. toctree::
+   :glob:
 
-   exemple
+   exemple*
