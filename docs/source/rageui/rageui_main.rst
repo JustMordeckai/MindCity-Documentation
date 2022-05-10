@@ -8,4 +8,4 @@ Hello
    :titlesonly:
    :glob:
 
-   rageui/menu_control
+   menu_control

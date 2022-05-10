@@ -4,15 +4,15 @@ MindCity
 Documentation MindCity
 
 .. toctree::
-   :caption: Dev
+   :caption: Développeur
    :titlesonly:
    :glob:
 
-   rageui_main
-   
+   rageui/rageui_main
+
 .. toctree::
-   :caption: Mapping
+   :caption: Mapper
    :titlesonly:
    :glob:
 
-   mapping_main
+   mapping/mapping_main
