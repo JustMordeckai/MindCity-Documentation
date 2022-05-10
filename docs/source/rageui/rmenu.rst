@@ -3,9 +3,8 @@ RMenu
 
 Fonctions
 ---------
-
+.. function::   RMenu.Add(Type, Name, Menu) 
 +----------------------------------------------------------------------------------------------------------------------+
-|.. function::   RMenu.Add(Type, Name, Menu)                                                                           |
 |.. line-block::                                                                                                       |
 |    Permet l'ajout d'un menu dans la ressource.                                                                       |
 |    ``Type`` est une grande catégorie de menu, de préférence, garder toujours le même.                                |
