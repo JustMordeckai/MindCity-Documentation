@@ -9,4 +9,5 @@ Contents
 .. toctree::
    :glob:
 
-   exemple*
+   exemple
+   rageui_main
