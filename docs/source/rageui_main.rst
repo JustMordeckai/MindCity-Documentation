@@ -4,7 +4,7 @@ RageUI
 Hello
 
 .. toctree::
-   :caption: Sommaire
+   :caption: Sommaire rageui
    :titlesonly:
    :glob:
 

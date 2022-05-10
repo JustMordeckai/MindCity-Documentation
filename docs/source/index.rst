@@ -7,7 +7,7 @@ Test index
 ----------
 
 .. toctree::
-   :caption: Sommaire
+   :caption: Sommaire index
    :titlesonly:
    :glob:
 
