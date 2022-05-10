@@ -8,4 +8,4 @@ Testing
 .. toctree::
    :glob:
 
-   menu_control*
+   rageui/*

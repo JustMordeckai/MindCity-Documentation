@@ -9,4 +9,4 @@ Contents
 .. toctree::
    :glob:
 
-   rageui*
+   rageui_main
