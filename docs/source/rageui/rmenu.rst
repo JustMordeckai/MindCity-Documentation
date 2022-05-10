@@ -12,11 +12,13 @@ Permet l'ajout d'un menu dans la ressource.
 
 
 +------------------------------+
-|Test paragraphe               |
-|Test paragraphe               |
+Test paragraphe
 +------------------------------+
 
 +------------------------------+
 |Test paragraphe      2        |
 |Test paragraphe      2        |
 +------------------------------+
+
+
+| Test paragraphe 3
