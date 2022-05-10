@@ -1,7 +1,3 @@
-Menu Controler
-==============
+Menu Controller
+===============
 
-Hello
-
-Testing
--------

@@ -1,10 +1,13 @@
 RageUI
 ======
 
-Hello
+Principal librairie de gestion de menu du serveur.
+
+.. note::
+   Plusieurs menus sont gérés par ESX et doivent être remplacés par ceux de RageUI
 
 .. toctree::
-   :caption: Catégorie RageUI
+   :caption: Système RageUI
    :titlesonly:
    :glob:
 
