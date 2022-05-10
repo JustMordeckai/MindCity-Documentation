@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'MindCity Documentation'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, MindCity'
+author = 'Mordeckai'
 
 release = '0.1'
 version = '0.1.0'
