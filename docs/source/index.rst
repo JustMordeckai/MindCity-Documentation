@@ -3,12 +3,16 @@ MindCity
 
 Documentation MindCity
 
-Test index
-----------
-
 .. toctree::
-   :caption: Sommaire index
+   :caption: Dev
    :titlesonly:
    :glob:
 
    rageui_main
+   
+.. toctree::
+   :caption: Mapping
+   :titlesonly:
+   :glob:
+
+   mapping_main

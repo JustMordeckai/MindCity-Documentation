@@ -4,7 +4,7 @@ RageUI
 Hello
 
 .. toctree::
-   :caption: Sommaire rageui
+   :caption: Catégorie RageUI
    :titlesonly:
    :glob:
 
