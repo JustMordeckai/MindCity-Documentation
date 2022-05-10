@@ -9,5 +9,4 @@ Contents
 .. toctree::
    :glob:
 
-   exemple
    rageui_main
