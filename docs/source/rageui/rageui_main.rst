@@ -12,3 +12,4 @@ Principal librairie de gestion de menu du serveur.
    :glob:
 
    menu_control
+   rmenu
