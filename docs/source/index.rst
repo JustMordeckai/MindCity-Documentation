@@ -8,4 +8,4 @@ Contents
 
 .. toctree::
 
-   test
+   exemple
