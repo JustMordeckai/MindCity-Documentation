@@ -3,7 +3,7 @@ RMenu
 
 Fonctions
 ---------
-.. function::   RMenu.Add(Type, Name, Menu)
+.. function::'RMenu.Add(Type, Name, Menu)'
 |   Permet l'ajout d'un menu dans la ressource.
 |   ``Type string`` est une grande catégorie de menu, de préférence, garder toujours le même.                 
 |   ``Name string`` est le nom du menu, changer leur à votre guise tout en lui attribuant un nom assez explicite.          
@@ -12,7 +12,7 @@ Fonctions
 
 _____
 
-.. function::   RMenu:Get(Type, Name) 
+.. function::'RMenu:Get(Type, Name)' 
 |   Permet de récupérer l'objet d'un menu, utilisé comme des variables pour les pointer du doigt dans d'autre fonction (``RageUI.IsVisible`` par exemple)
 |   ``Type string`` est une grande catégorie de menu, de préférence, garder toujours le même.                 
 |   ``Name string`` est le nom du menu, changer leur à votre guise tout en lui attribuant un nom assez explicite.   
