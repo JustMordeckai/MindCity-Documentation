@@ -4,11 +4,11 @@ MindCity
 Documentation MindCity
 
 .. toctree::
-   :caption: Développeur
+   :caption: Divers
    :titlesonly:
    :glob:
 
-   global/global_main
+   global/commands
 
 .. toctree::
    :caption: Développeur
