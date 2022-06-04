@@ -8,6 +8,13 @@ Documentation MindCity
    :titlesonly:
    :glob:
 
+   global/global_main
+
+.. toctree::
+   :caption: Développeur
+   :titlesonly:
+   :glob:
+
    rageui/rageui_main
 
 .. toctree::
